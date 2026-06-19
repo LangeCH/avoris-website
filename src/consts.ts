@@ -54,7 +54,7 @@ export const SOCIALS: Socials = [
   { 
     NAME: "Github",
     ICON: "github",
-    TEXT: "LangeCH-dev",
+    TEXT: "LangeCH",
     HREF: "https://github.com/LangeCH",
   },
 ]
